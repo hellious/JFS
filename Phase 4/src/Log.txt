@@ -1,0 +1,12 @@
+PENDING transID: 87 dataID: 3 dataVal: GOOGLE
+COMMIT transID: 87 dataID: 3 dataVal: GOOGLE
+PENDING transID: 88 dataID: 4 dataVal: GOOGLE
+COMMIT transID: 88 dataID: 4 dataVal: GOOGLE
+PENDING transID: 89 dataID: 3 dataVal: YAHOO
+COMMIT transID: 89 dataID: 3 dataVal: YAHOO
+PENDING transID: 90 dataID: 4 dataVal: GOOGLE
+COMMIT transID: 90 dataID: 4 dataVal: GOOGLE
+PENDING transID: 91 dataID: 3 dataVal: YAHOO
+COMMIT transID: 91 dataID: 3 dataVal: YAHOO
+PENDING transID: 92 dataID: 3 dataVal: GOOGLE
+ABORT transID: 92 dataID: 3 dataVal: GOOGLE

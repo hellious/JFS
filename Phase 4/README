@@ -1,0 +1,19 @@
+1)For building the project and the test cases makefile can be used.
+Following are commands to build:
+	I.To build the projet and test cases:
+	Command:make -f Makefile
+
+2)To run the project type:
+command:./jfs
+
+3)To run the test cases type:
+command:./testCaseN
+N=1,2,3,4,5
+
+4)To run the fault test cases:
+command:./faultN
+N=1,2
+
+Note:Enter data Id as Integers
+     Enter data Value as string
+ 

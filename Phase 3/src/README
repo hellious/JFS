@@ -1,0 +1,17 @@
+1)For bulding the project and the test cases makefile can be used.
+Following are commands to build:
+	I.To build the projetc:
+	Command:make jfs
+	II.To build test case
+	command:make testCaseN
+	(replace N with test case number N=1,2,4,5,6)
+
+2)To run the project type:
+command:./jfs
+
+3)To run the test cases type:
+command:./testCaseN
+N=1,2,3,4,5,6
+
+
+Note:Enter the data Id as Integers

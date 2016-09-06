@@ -1,0 +1,13 @@
+
+PENDING transID: 48 dataID: 1 dataVal: YAHOO
+COMMIT transID: 48 dataID: 1 dataVal: YAHOO
+PENDING transID: 49 dataID: 1 dataVal: YAHOO
+COMMIT transID: 49 dataID: 1 dataVal: YAHOO
+PENDING transID: 50 dataID: 1 dataVal: YAHOO
+COMMIT transID: 50 dataID: 1 dataVal: YAHOO
+PENDING transID: 51 dataID: 1 dataVal: YAHOO
+ABORT transID: 51 dataID: 1 dataVal: YAHOO
+PENDING transID: 0 dataID: 1 dataVal: YAHOO
+ABORT transID: 0 dataID: 1 dataVal: YAHOO
+PENDING transID: 52 dataID: 12 dataVal: GOOGLE
+COMMIT transID: 52 dataID: 12 dataVal: GOOGLE
